@@ -1,0 +1,223 @@
+// Words
+digraph {
+	graph [bgcolor="#888888" fontcolor=white fontsize=20 label="A Fancy Graph" rankdir=BT]
+	node [color=white fillcolor="#006699" fontcolor=white fontname=Helvetica shape=hexagon style=filled]
+	edge [arrowhead=open color=white fontcolor=white fontname=Courier fontsize=12 style=dashed]
+		dym
+		knajpa
+			dym -> knajpa [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		kominek
+			dym -> kominek [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		elektroniczny
+			dym -> elektroniczny [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		przerwa
+			dym -> przerwa [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		"papież"
+			dym -> "papież" [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		wodna
+			dym -> wodna [label=0.081 len=5.67556742323 weight=0.0811081441923]
+		"gęsty"
+			dym -> "gęsty" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		choroba
+			dym -> choroba [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"płomień"
+			dym -> "płomień" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		cygaro
+			dym -> cygaro [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		pokoju
+			dym -> pokoju [label=0.045 len=5.81842456609 weight=0.045393858478]
+		czarny
+			dym -> czarny [label=0.005 len=5.97997329773 weight=0.00500667556742]
+		"śmierdzący"
+			dym -> "śmierdzący" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"e-papieros"
+			dym -> "e-papieros" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"to już było"
+			dym -> "to już było" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"płuca"
+			dym -> "płuca" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		szlug
+			dym -> szlug [label=0.004 len=5.9826435247 weight=0.0043391188251]
+		piec
+			dym -> piec [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		"z jałowca"
+			dym -> "z jałowca" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dym
+			dym -> dym [label=0.050 len=5.79839786382 weight=0.0504005340454]
+		"przyjemność"
+			dym -> "przyjemność" [label=0.003 len=5.98531375167 weight=0.00367156208278]
+		pies
+			dym -> pies [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"pali się"
+			dym -> "pali się" [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"zło"
+			dym -> "zło" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"skręt"
+			dym -> "skręt" [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"pokój"
+			dym -> "pokój" [label=0.007 len=5.97062750334 weight=0.00734312416555]
+		smuga
+			dym -> smuga [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"roślina"
+			dym -> "roślina" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		narkotyk
+			dym -> narkotyk [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		pali
+			dym -> pali [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		ognisko
+			dym -> ognisko [label=0.012 len=5.95193591455 weight=0.0120160213618]
+		"pożar"
+			dym -> "pożar" [label=0.007 len=5.96929238985 weight=0.00767690253672]
+		"bibułka"
+			dym -> "bibułka" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		pet
+			dym -> pet [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		"śmierdzi"
+			dym -> "śmierdzi" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		klub
+			dym -> klub [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tabaka
+			dym -> tabaka [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		papierosa
+			dym -> papierosa [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		smog
+			dym -> smog [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		trucizna
+			dym -> trucizna [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"palić się"
+			dym -> "palić się" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		niezdrowy
+			dym -> niezdrowy [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		siwy
+			dym -> siwy [label=0.016 len=5.93457943925 weight=0.0163551401869]
+		woda
+			dym -> woda [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tabakiera
+			dym -> tabakiera [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papierosowy
+			dym -> papierosowy [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		dziadek
+			dym -> dziadek [label=0.005 len=5.97730307076 weight=0.00567423230975]
+		papier
+			dym -> papier [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		malboro
+			dym -> malboro [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		nikotyna
+			dym -> nikotyna [label=0.006 len=5.97329773031 weight=0.00667556742323]
+		"z komina"
+			dym -> "z komina" [label=0.008 len=5.9652870494 weight=0.0086782376502]
+		nowela
+			dym -> nowela [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		fajnie
+			dym -> fajnie [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"z papierosa"
+			dym -> "z papierosa" [label=0.002 len=5.99198931909 weight=0.00200267022697]
+		popielniczka
+			dym -> popielniczka [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		impreza
+			dym -> impreza [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		zapach
+			dym -> zapach [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"uzależnienie"
+			dym -> "uzależnienie" [label=0.004 len=5.9826435247 weight=0.0043391188251]
+		pole
+			dym -> pole [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		cienki
+			dym -> cienki [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		smak
+			dym -> smak [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		szkodzi
+			dym -> szkodzi [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		kawa
+			dym -> kawa [label=0.002 len=5.98931909212 weight=0.00267022696929]
+		faja
+			dym -> faja [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"ogień"
+			dym -> "ogień" [label=0.038 len=5.84512683578 weight=0.0387182910547]
+		zapalniczka
+			dym -> zapalniczka [label=0.004 len=5.98397863818 weight=0.00400534045394]
+		kot
+			dym -> kot [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		filtr
+			dym -> filtr [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"dymić"
+			dym -> "dymić" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tytoniu
+			dym -> tytoniu [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		chata
+			dym -> chata [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papieros
+			dym -> papieros [label=0.189 len=5.24165554072 weight=0.18958611482]
+		"śmierć"
+			dym -> "śmierć" [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		joint
+			dym -> joint [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		palenie
+			dym -> palenie [label=0.036 len=5.85313751669 weight=0.0367156208278]
+		szlugi
+			dym -> szlugi [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"tytoń"
+			dym -> "tytoń" [label=0.127 len=5.48998664887 weight=0.127503337784]
+		szluga
+			dym -> szluga [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		sadza
+			dym -> sadza [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		komin
+			dym -> komin [label=0.047 len=5.81174899866 weight=0.0470627503338]
+		pieros
+			dym -> pieros [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"rak płuc"
+			dym -> "rak płuc" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"szarość"
+			dym -> "szarość" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		rak
+			dym -> rak [label=0.008 len=5.96662216288 weight=0.00834445927904]
+		szisza
+			dym -> szisza [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		fajka
+			dym -> fajka [label=0.014 len=5.94392523364 weight=0.0140186915888]
+		palacz
+			dym -> palacz [label=0.008 len=5.9652870494 weight=0.0086782376502]
+		fajki
+			dym -> fajki [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		"smród"
+			dym -> "smród" [label=0.010 len=5.95994659546 weight=0.0100133511348]
+		tak
+			dym -> tak [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dach
+			dym -> dach [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"popiół"
+			dym -> "popiół" [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		"nałóg"
+			dym -> "nałóg" [label=0.012 len=5.95060080107 weight=0.012349799733]
+		piwo
+			dym -> piwo [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		szary
+			dym -> szary [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		starzec
+			dym -> starzec [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papierosy
+			dym -> papierosy [label=0.087 len=5.65153538051 weight=0.0871161548732]
+		zima
+			dym -> zima [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		konopnicka
+			dym -> konopnicka [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		paczka
+			dym -> paczka [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		indianie
+			dym -> indianie [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"biały"
+			dym -> "biały" [label=0.007 len=5.97196261682 weight=0.00700934579439]
+		"z ogniska"
+			dym -> "z ogniska" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dom
+			dym -> dom [label=0.010 len=5.95727636849 weight=0.0106809078772]
+		"palić"
+			dym -> "palić" [label=0.029 len=5.88384512684 weight=0.0290387182911]
+		zanieczyszczenie
+			dym -> zanieczyszczenie [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		czad
+			dym -> czad [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		alkohol
+			dym -> alkohol [label=0.001 len=5.99465954606 weight=0.00133511348465]
+}

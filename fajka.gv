@@ -1,0 +1,223 @@
+// Words
+digraph {
+	graph [bgcolor="#888888" fontcolor=white fontsize=20 label="A Fancy Graph" rankdir=BT]
+	node [color=white fillcolor="#006699" fontcolor=white fontname=Helvetica shape=hexagon style=filled]
+	edge [arrowhead=open color=white fontcolor=white fontname=Courier fontsize=12 style=dashed]
+		fajka
+		knajpa
+			fajka -> knajpa [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		kominek
+			fajka -> kominek [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		elektroniczny
+			fajka -> elektroniczny [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		przerwa
+			fajka -> przerwa [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		"papież"
+			fajka -> "papież" [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		wodna
+			fajka -> wodna [label=0.081 len=5.67556742323 weight=0.0811081441923]
+		"gęsty"
+			fajka -> "gęsty" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		choroba
+			fajka -> choroba [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"płomień"
+			fajka -> "płomień" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		cygaro
+			fajka -> cygaro [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		pokoju
+			fajka -> pokoju [label=0.045 len=5.81842456609 weight=0.045393858478]
+		czarny
+			fajka -> czarny [label=0.005 len=5.97997329773 weight=0.00500667556742]
+		"śmierdzący"
+			fajka -> "śmierdzący" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"e-papieros"
+			fajka -> "e-papieros" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"to już było"
+			fajka -> "to już było" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"płuca"
+			fajka -> "płuca" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		szlug
+			fajka -> szlug [label=0.004 len=5.9826435247 weight=0.0043391188251]
+		piec
+			fajka -> piec [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		"z jałowca"
+			fajka -> "z jałowca" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dym
+			fajka -> dym [label=0.050 len=5.79839786382 weight=0.0504005340454]
+		"przyjemność"
+			fajka -> "przyjemność" [label=0.003 len=5.98531375167 weight=0.00367156208278]
+		pies
+			fajka -> pies [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"pali się"
+			fajka -> "pali się" [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"zło"
+			fajka -> "zło" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"skręt"
+			fajka -> "skręt" [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"pokój"
+			fajka -> "pokój" [label=0.007 len=5.97062750334 weight=0.00734312416555]
+		smuga
+			fajka -> smuga [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"roślina"
+			fajka -> "roślina" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		narkotyk
+			fajka -> narkotyk [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		pali
+			fajka -> pali [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		ognisko
+			fajka -> ognisko [label=0.012 len=5.95193591455 weight=0.0120160213618]
+		"pożar"
+			fajka -> "pożar" [label=0.007 len=5.96929238985 weight=0.00767690253672]
+		"bibułka"
+			fajka -> "bibułka" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		pet
+			fajka -> pet [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		"śmierdzi"
+			fajka -> "śmierdzi" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		klub
+			fajka -> klub [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tabaka
+			fajka -> tabaka [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		papierosa
+			fajka -> papierosa [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		smog
+			fajka -> smog [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		trucizna
+			fajka -> trucizna [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"palić się"
+			fajka -> "palić się" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		niezdrowy
+			fajka -> niezdrowy [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		siwy
+			fajka -> siwy [label=0.016 len=5.93457943925 weight=0.0163551401869]
+		woda
+			fajka -> woda [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tabakiera
+			fajka -> tabakiera [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papierosowy
+			fajka -> papierosowy [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		dziadek
+			fajka -> dziadek [label=0.005 len=5.97730307076 weight=0.00567423230975]
+		papier
+			fajka -> papier [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		malboro
+			fajka -> malboro [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		nikotyna
+			fajka -> nikotyna [label=0.006 len=5.97329773031 weight=0.00667556742323]
+		"z komina"
+			fajka -> "z komina" [label=0.008 len=5.9652870494 weight=0.0086782376502]
+		nowela
+			fajka -> nowela [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		fajnie
+			fajka -> fajnie [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"z papierosa"
+			fajka -> "z papierosa" [label=0.002 len=5.99198931909 weight=0.00200267022697]
+		popielniczka
+			fajka -> popielniczka [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		impreza
+			fajka -> impreza [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		zapach
+			fajka -> zapach [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"uzależnienie"
+			fajka -> "uzależnienie" [label=0.004 len=5.9826435247 weight=0.0043391188251]
+		pole
+			fajka -> pole [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		cienki
+			fajka -> cienki [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		smak
+			fajka -> smak [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		szkodzi
+			fajka -> szkodzi [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		kawa
+			fajka -> kawa [label=0.002 len=5.98931909212 weight=0.00267022696929]
+		faja
+			fajka -> faja [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"ogień"
+			fajka -> "ogień" [label=0.038 len=5.84512683578 weight=0.0387182910547]
+		zapalniczka
+			fajka -> zapalniczka [label=0.004 len=5.98397863818 weight=0.00400534045394]
+		kot
+			fajka -> kot [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		filtr
+			fajka -> filtr [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"dymić"
+			fajka -> "dymić" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tytoniu
+			fajka -> tytoniu [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		chata
+			fajka -> chata [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papieros
+			fajka -> papieros [label=0.189 len=5.24165554072 weight=0.18958611482]
+		"śmierć"
+			fajka -> "śmierć" [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		joint
+			fajka -> joint [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		palenie
+			fajka -> palenie [label=0.036 len=5.85313751669 weight=0.0367156208278]
+		szlugi
+			fajka -> szlugi [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"tytoń"
+			fajka -> "tytoń" [label=0.127 len=5.48998664887 weight=0.127503337784]
+		szluga
+			fajka -> szluga [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		sadza
+			fajka -> sadza [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		komin
+			fajka -> komin [label=0.047 len=5.81174899866 weight=0.0470627503338]
+		pieros
+			fajka -> pieros [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"rak płuc"
+			fajka -> "rak płuc" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"szarość"
+			fajka -> "szarość" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		rak
+			fajka -> rak [label=0.008 len=5.96662216288 weight=0.00834445927904]
+		szisza
+			fajka -> szisza [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		fajka
+			fajka -> fajka [label=0.014 len=5.94392523364 weight=0.0140186915888]
+		palacz
+			fajka -> palacz [label=0.008 len=5.9652870494 weight=0.0086782376502]
+		fajki
+			fajka -> fajki [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		"smród"
+			fajka -> "smród" [label=0.010 len=5.95994659546 weight=0.0100133511348]
+		tak
+			fajka -> tak [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dach
+			fajka -> dach [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"popiół"
+			fajka -> "popiół" [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		"nałóg"
+			fajka -> "nałóg" [label=0.012 len=5.95060080107 weight=0.012349799733]
+		piwo
+			fajka -> piwo [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		szary
+			fajka -> szary [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		starzec
+			fajka -> starzec [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papierosy
+			fajka -> papierosy [label=0.087 len=5.65153538051 weight=0.0871161548732]
+		zima
+			fajka -> zima [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		konopnicka
+			fajka -> konopnicka [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		paczka
+			fajka -> paczka [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		indianie
+			fajka -> indianie [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"biały"
+			fajka -> "biały" [label=0.007 len=5.97196261682 weight=0.00700934579439]
+		"z ogniska"
+			fajka -> "z ogniska" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dom
+			fajka -> dom [label=0.010 len=5.95727636849 weight=0.0106809078772]
+		"palić"
+			fajka -> "palić" [label=0.029 len=5.88384512684 weight=0.0290387182911]
+		zanieczyszczenie
+			fajka -> zanieczyszczenie [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		czad
+			fajka -> czad [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		alkohol
+			fajka -> alkohol [label=0.001 len=5.99465954606 weight=0.00133511348465]
+}

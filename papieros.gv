@@ -1,0 +1,223 @@
+// Words
+digraph {
+	graph [bgcolor="#888888" fontcolor=white fontsize=20 label="A Fancy Graph" rankdir=BT]
+	node [color=white fillcolor="#006699" fontcolor=white fontname=Helvetica shape=hexagon style=filled]
+	edge [arrowhead=open color=white fontcolor=white fontname=Courier fontsize=12 style=dashed]
+		papieros
+		knajpa
+			papieros -> knajpa [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		kominek
+			papieros -> kominek [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		elektroniczny
+			papieros -> elektroniczny [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		przerwa
+			papieros -> przerwa [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		"papież"
+			papieros -> "papież" [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		wodna
+			papieros -> wodna [label=0.081 len=5.67556742323 weight=0.0811081441923]
+		"gęsty"
+			papieros -> "gęsty" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		choroba
+			papieros -> choroba [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"płomień"
+			papieros -> "płomień" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		cygaro
+			papieros -> cygaro [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		pokoju
+			papieros -> pokoju [label=0.045 len=5.81842456609 weight=0.045393858478]
+		czarny
+			papieros -> czarny [label=0.005 len=5.97997329773 weight=0.00500667556742]
+		"śmierdzący"
+			papieros -> "śmierdzący" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"e-papieros"
+			papieros -> "e-papieros" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"to już było"
+			papieros -> "to już było" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"płuca"
+			papieros -> "płuca" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		szlug
+			papieros -> szlug [label=0.004 len=5.9826435247 weight=0.0043391188251]
+		piec
+			papieros -> piec [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		"z jałowca"
+			papieros -> "z jałowca" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dym
+			papieros -> dym [label=0.050 len=5.79839786382 weight=0.0504005340454]
+		"przyjemność"
+			papieros -> "przyjemność" [label=0.003 len=5.98531375167 weight=0.00367156208278]
+		pies
+			papieros -> pies [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"pali się"
+			papieros -> "pali się" [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"zło"
+			papieros -> "zło" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"skręt"
+			papieros -> "skręt" [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"pokój"
+			papieros -> "pokój" [label=0.007 len=5.97062750334 weight=0.00734312416555]
+		smuga
+			papieros -> smuga [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"roślina"
+			papieros -> "roślina" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		narkotyk
+			papieros -> narkotyk [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		pali
+			papieros -> pali [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		ognisko
+			papieros -> ognisko [label=0.012 len=5.95193591455 weight=0.0120160213618]
+		"pożar"
+			papieros -> "pożar" [label=0.007 len=5.96929238985 weight=0.00767690253672]
+		"bibułka"
+			papieros -> "bibułka" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		pet
+			papieros -> pet [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		"śmierdzi"
+			papieros -> "śmierdzi" [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		klub
+			papieros -> klub [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tabaka
+			papieros -> tabaka [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		papierosa
+			papieros -> papierosa [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		smog
+			papieros -> smog [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		trucizna
+			papieros -> trucizna [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"palić się"
+			papieros -> "palić się" [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		niezdrowy
+			papieros -> niezdrowy [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		siwy
+			papieros -> siwy [label=0.016 len=5.93457943925 weight=0.0163551401869]
+		woda
+			papieros -> woda [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tabakiera
+			papieros -> tabakiera [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papierosowy
+			papieros -> papierosowy [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		dziadek
+			papieros -> dziadek [label=0.005 len=5.97730307076 weight=0.00567423230975]
+		papier
+			papieros -> papier [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		malboro
+			papieros -> malboro [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		nikotyna
+			papieros -> nikotyna [label=0.006 len=5.97329773031 weight=0.00667556742323]
+		"z komina"
+			papieros -> "z komina" [label=0.008 len=5.9652870494 weight=0.0086782376502]
+		nowela
+			papieros -> nowela [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		fajnie
+			papieros -> fajnie [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"z papierosa"
+			papieros -> "z papierosa" [label=0.002 len=5.99198931909 weight=0.00200267022697]
+		popielniczka
+			papieros -> popielniczka [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		impreza
+			papieros -> impreza [label=0.001 len=5.99465954606 weight=0.00133511348465]
+		zapach
+			papieros -> zapach [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"uzależnienie"
+			papieros -> "uzależnienie" [label=0.004 len=5.9826435247 weight=0.0043391188251]
+		pole
+			papieros -> pole [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		cienki
+			papieros -> cienki [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		smak
+			papieros -> smak [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		szkodzi
+			papieros -> szkodzi [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		kawa
+			papieros -> kawa [label=0.002 len=5.98931909212 weight=0.00267022696929]
+		faja
+			papieros -> faja [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"ogień"
+			papieros -> "ogień" [label=0.038 len=5.84512683578 weight=0.0387182910547]
+		zapalniczka
+			papieros -> zapalniczka [label=0.004 len=5.98397863818 weight=0.00400534045394]
+		kot
+			papieros -> kot [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		filtr
+			papieros -> filtr [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"dymić"
+			papieros -> "dymić" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		tytoniu
+			papieros -> tytoniu [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		chata
+			papieros -> chata [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papieros
+			papieros -> papieros [label=0.189 len=5.24165554072 weight=0.18958611482]
+		"śmierć"
+			papieros -> "śmierć" [label=0.005 len=5.97863818425 weight=0.00534045393858]
+		joint
+			papieros -> joint [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		palenie
+			papieros -> palenie [label=0.036 len=5.85313751669 weight=0.0367156208278]
+		szlugi
+			papieros -> szlugi [label=0.002 len=5.99065420561 weight=0.00233644859813]
+		"tytoń"
+			papieros -> "tytoń" [label=0.127 len=5.48998664887 weight=0.127503337784]
+		szluga
+			papieros -> szluga [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		sadza
+			papieros -> sadza [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		komin
+			papieros -> komin [label=0.047 len=5.81174899866 weight=0.0470627503338]
+		pieros
+			papieros -> pieros [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"rak płuc"
+			papieros -> "rak płuc" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		"szarość"
+			papieros -> "szarość" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		rak
+			papieros -> rak [label=0.008 len=5.96662216288 weight=0.00834445927904]
+		szisza
+			papieros -> szisza [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		fajka
+			papieros -> fajka [label=0.014 len=5.94392523364 weight=0.0140186915888]
+		palacz
+			papieros -> palacz [label=0.008 len=5.9652870494 weight=0.0086782376502]
+		fajki
+			papieros -> fajki [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		"smród"
+			papieros -> "smród" [label=0.010 len=5.95994659546 weight=0.0100133511348]
+		tak
+			papieros -> tak [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dach
+			papieros -> dach [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"popiół"
+			papieros -> "popiół" [label=0.001 len=5.99332443258 weight=0.00166889185581]
+		"nałóg"
+			papieros -> "nałóg" [label=0.012 len=5.95060080107 weight=0.012349799733]
+		piwo
+			papieros -> piwo [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		szary
+			papieros -> szary [label=0.006 len=5.97596795728 weight=0.00600801068091]
+		starzec
+			papieros -> starzec [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		papierosy
+			papieros -> papierosy [label=0.087 len=5.65153538051 weight=0.0871161548732]
+		zima
+			papieros -> zima [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		konopnicka
+			papieros -> konopnicka [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		paczka
+			papieros -> paczka [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		indianie
+			papieros -> indianie [label=0.001 len=5.99599465955 weight=0.00100133511348]
+		"biały"
+			papieros -> "biały" [label=0.007 len=5.97196261682 weight=0.00700934579439]
+		"z ogniska"
+			papieros -> "z ogniska" [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		dom
+			papieros -> dom [label=0.010 len=5.95727636849 weight=0.0106809078772]
+		"palić"
+			papieros -> "palić" [label=0.029 len=5.88384512684 weight=0.0290387182911]
+		zanieczyszczenie
+			papieros -> zanieczyszczenie [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		czad
+			papieros -> czad [label=0.000 len=5.99732977303 weight=0.000667556742323]
+		alkohol
+			papieros -> alkohol [label=0.001 len=5.99465954606 weight=0.00133511348465]
+}

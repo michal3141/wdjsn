@@ -1,0 +1,17 @@
+Wyszukac teksty z bodzcem prymarnym (narodowy korpus PAN, portal, najlepiej krotkie)
+Wyszukiwanie: czasownik -*- bodziec prymarny -*- czasownik
+Zapis powyzszych wycinkow - co najmniej 100
+Czasownik + forma osobowa (nie bezokolicznik)
+
+# Biblioteka CLP (slownik fleksyjny) - wierzba.ki.agh.edu.pl
+
+Sieć empiryczna - reprezentuje znaczenie
+
+Obcinać jeśli prawy czasownik jest bezokolicznikiem albo 'być'
+
+XXXYYYZZZ
+
+1. Poprawić wycinki
+2. Podzielić zbiór snippetów na dwa podzbiory.
+Na podzbiór w którym występuje para z sieci semantycznej
+Bierzemy pod tekstem - sortujemy wg. wag
