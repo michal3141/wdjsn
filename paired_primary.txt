@@ -1,297 +1,184 @@
-przyniosła mi Nszo-czi przepysznie rzeźbioną fajkę pokoju i tytoń. Sama mi ją napchała
-546 pokój:158 tytoń:388 
-
-palić tytoń lub fajkę – „titin” lub ,,czibuk iczmek”; „iczmek” zaś nie znaczy
-475 palić:87 tytoń:388 
-
 palą fajki tylko w swoich wigwamach, a na prerii “jedzą dym pokoju” z cygar, które nie zabierają
-414 palić:87 dym:151 pokój:158 cygaro:18 
-
-wydobył fajkę i worek z tytoniem i usiadł
-388 tytoń:388 
-
-Napchano fajkę tytoniem i puszczono
-388 tytoń:388 
-
-ugniótł rzeźbionym ubijakiem tytoń w fajce. – Natomiast pana, doktorze – spojrzał
-388 tytoń:388 
-
-leżała jeszcze fajka i skórzany worek z tytoniem, pomieszanym, jak zwykle u Indian, z liśćmi konopi. Wziąłem
-388 tytoń:388 
-
-Była to moja pierwsza „święta czynność” wśród Indian, gdyż palenie fajki pokoju uważają
-271 palenie:113 pokój:158 
-
-paląc fajkę pokoju z dwoma białymi. Konie wszystkich tych czterech ludzi pasły
-266 palić:87 pokój:158 biały:21 
-
+247[(u'pali\u0107', 39), (u'dym', 46), (u'pok\xf3j', 158), (u'cygaro', 4)]
+przyniosła mi Nszo-czi przepysznie rzeźbioną fajkę pokoju i tytoń. Sama mi ją napchała
+227[(u'pok\xf3j', 158), (u'tyto\u0144', 69)]
 wypalić z nim fajkę pokoju. – Tak, a przyjaciela i brata, z którym paliło
-247 pokój:158 tak:2 palić:87 
-
-palili z nim fajkę pokoju. Howgh! Tak skończył
-247 palić:87 pokój:158 tak:2 
-
+197[(u'pok\xf3j', 158), (u'pali\u0107', 39)]
 paliłem fajkę pokoju z Oyo-kolcą, wodzem Komanczów. Rozmawiałem
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 paliliśmy z sobą fajki pokoju? – Przyznaję, ale temu pokojowi nie można
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 paliło się fajkę pokoju, nie zabija
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
+palili z nim fajkę pokoju. Howgh! Tak skończył
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 palą razem fajkę pokoju. Czy postanowiłeś
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
+paląc fajkę pokoju z dwoma białymi. Konie wszystkich tych czterech ludzi pasły
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 palił z nami fajki pokoju? Czy nie ma obowiązku walczyć
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 palili fajkę pokoju z dwoma jego wrogami, a mimo to ani jeden włos nie spadł
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
+Była to moja pierwsza „święta czynność” wśród Indian, gdyż palenie fajki pokoju uważają
+197[(u'palenie', 39), (u'pok\xf3j', 158)]
 palili fajkę pokoju, posługuję
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 palił z nimi fajkę pokoju. W ten sposób
-245 palić:87 pokój:158 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 palił z Old Shatterhandem fajkę pokoju. Niech jedzie
-245 palić:87 pokój:158 
-
-wypalili fajkę pokoju, ze zwykłym ceremoniałem, a potem my, biali, podchodziliśmy
-179 pokój:158 biały:21 
-
-Wypaliłem z Białym Bobrem fajkę pokoju; przysięgliśmy
-179 biały:21 pokój:158 
-
-wypalimy z nimi fajkę pokoju. W ojczyźnie mego białego brata nie istnieje
-179 pokój:158 biały:21 
-
-zauważyłem woreczek z ,,lekami”, artystycznie rzeźbioną fajkę pokoju i potrójny sznur pazurów szarego niedźwiedzia, zdobytych na tym najstraszliwszym drapieżcy Gór Skalistych. Dokoła bioder biegł
-176 pokój:158 szary:18 
-
+197[(u'pali\u0107', 39), (u'pok\xf3j', 158)]
 skinął mi głową na podziękowanie, mówiąc: ¦ Takie cygaro to istna fajka pokoju. Zdaje
-176 cygaro:18 pokój:158 
-
-przyrządzają kinnikinnik, rozszerzający z fajki pokoju zapach miłości i braterstwa. Czytałem
-161 pokój:158 zapach:3 
-
+162[(u'cygaro', 4), (u'pok\xf3j', 158)]
 zauważyłem woreczek z ,,lekami” i fajkę pokoju z główką toczoną ze świętej gliny. W ręku trzymał
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalono z nimi fajkę pokoju. Teraz jednak przekonali
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Zapalimy z nim fajkę pokoju. Potem Keiowehowie usiedli
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 podał Samowi tę zgoła nie pokojową fajkę pokoju, on zaś dzielnie pociągnął
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Daj mi swoją fajkę pokoju i... ¦ Uff! ¦ zawołał
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalą ze mną fajkę pokoju? – Wprzód muszą
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapalą ze mną fajkę pokoju? – Najpierw pomówią
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
+zauważyłem woreczek z ,,lekami”, artystycznie rzeźbioną fajkę pokoju i potrójny sznur pazurów szarego niedźwiedzia, zdobytych na tym najstraszliwszym drapieżcy Gór Skalistych. Dokoła bioder biegł
+158[(u'pok\xf3j', 158)]
 zapalimy fajkę pokoju, a potem walka będzie
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapali także z moimi przyjaciółmi fajkę pokoju? ¦ Twoi przyjaciele są
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 niż tysiąc fajek pokoju i kinnikinniku. Ponieważ pozostawaliśmy
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalili fajkę pokoju z jego przyjaciółmi, dlatego on pozwoli
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliliśmy fajkę pokoju, to muszą
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapaliliśmy fajkę pokoju. Potem każdy z nas udał
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zajęliśmy miejsca obok niego. Uroczystość zapalenia fajki pokoju była
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 mają prawo wal nasze guńki góralskie), kolekcja fajek pokoju, skalpy, tomahawki, biżuteria kobiet indiańskich, bardzo stare rysunki na skórach, mumia peruwiańska, cały rząd strzelb myśliwskich – wszystko to przeplatane dokumentami historycznymi i fotografiami o ogromnej wartości... Gdyby te pamiątki ułożyć, uzupełnić
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalić z Winnetou fajkę pokoju? Sam podniósł
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliło z czerwonoskórym fajkę pokoju, można
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Wypalimy fajkę pokoju. 251 – Uff! Czy wielki wojownik Old Shatterhand, który bez wszelkiej pomocy umknął
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
+wypalili fajkę pokoju, ze zwykłym ceremoniałem, a potem my, biali, podchodziliśmy
+158[(u'pok\xf3j', 158)]
 zapalą ze mną fajkę pokoju. Skoro staną
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 pozbyć fajki pokoju wsunąwszy
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalili z nami fajkę pokoju, ale nie będzie
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapalił fajkę pokoju z moim bratem Samem, a to będzie
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 nabrać gliny na fajki pokoju dla swego szczepu. Obaj byli
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliliśmy fajkę pokoju z zachowaniem całego ceremoniału. Kazałem
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalili z Apaczami uroczyście fajkę pokoju. Posypały
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalimy fajkę pokoju z wodzem Okanandów, aby wynikom naszej narady nadać
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapali z bladymi twarzami fajkę pokoju. ¦ I dobrze zrobisz. Kto chce
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
+przyrządzają kinnikinnik, rozszerzający z fajki pokoju zapach miłości i braterstwa. Czytałem
+158[(u'pok\xf3j', 158)]
 zapalić z nią fajkę pokoju. Skinął
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalić z nimi fajkę pokoju. Wodzowie Komanczów są
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliłem z nim fajkę pokoju. Następnie wypuściliśmy
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Nosił on również na szyi woreczek z „lekami” oraz fajkę pokoju. Uzbrojenie stanowiły
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalili z nimi fajkę pokoju, gdyż wiele z tego, co nam zostawało
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliliście z Komańczami fajkę pokoju i wydmuchnęliście
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zaufać fajce pokoju Komanczów i memu totemowi, zwłaszcza że Winnetou zna
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Masz na sobie moją fajkę pokoju i moje leki, słowa twoje są
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
+Wypaliłem z Białym Bobrem fajkę pokoju; przysięgliśmy
+158[(u'pok\xf3j', 158)]
+wypalimy z nimi fajkę pokoju. W ojczyźnie mego białego brata nie istnieje
+158[(u'pok\xf3j', 158)]
 wypaliwszy fajkę pokoju. Uczyniliśmy
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 chroni fajka pokoju. Pozostawiono
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliliśmy z nimi fajkę pokoju i nie wolno
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapalisz z nami fajkę pokoju? – Owszem, chciałbym
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliłeś z jego żołnierzami fajkę pokoju, ponieważ oni cię okłamali... Oko wodza zaiskrzyło
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 otaczają Indianie fajkę pokoju, widać
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypiją pokój z fajki wodza Komanczów! Old Death usiadł, a my poszliśmy
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 sądzicie o fajce pokoju? – Ułożyli
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalą ze mną fajkę pokoju! – rzekł
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliliśmy z nimi fajkę pokoju. Zresztą Winnetou nie potrzebuje
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapalą z nami fajkę pokoju! Indianie nie posłuchali
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 nałożył fajkę pokoju, po czym zatwierdzono
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Przeszkadza nam ta diabelska fajka pokoju. Przed nadejściem poranka nie pozwolą
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 Wypaliliśmy z wami fajkę pokoju ¦ przerwał
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wisiały dwa skalpy, a na sznurku, biegnącym dokoła szyi woreczek z lekami i fajka pokoju. Na kolanach leżała
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalić fajkę pokoju, ale to jest
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 otrzymał fajkę pokoju wodza i nazbierał
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 róść świętej glinie na fajkę pokoju? – zapytał
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 kierował na szczyty, nie tknięte ludzką stopą. Dlatego zaprzysięgłem na kalumet, czyli na fajkę pokoju, że będę
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypaliliśmy fajkę pokoju za wszystkich. – Dobrze, ale w takim razie my uczynimy
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypala 84 ne, jak i sporządzone z kamienia, Głowica fajki pokoju powinna
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 siodła i koce. Od chwili wypalenia fajki pokoju zmienił
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 zapalimy na to fajkę pokoju, co oznacza
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
 wypalili z nami także fajkę pokoju. ¦ Powtarzam
-158 pokój:158 
-
+158[(u'pok\xf3j', 158)]
+palić tytoń lub fajkę – „titin” lub ,,czibuk iczmek”; „iczmek” zaś nie znaczy
+108[(u'pali\u0107', 39), (u'tyto\u0144', 69)]
+wydobył fajkę i worek z tytoniem i usiadł
+69[(u'tyto\u0144', 69)]
+Napchano fajkę tytoniem i puszczono
+69[(u'tyto\u0144', 69)]
+ugniótł rzeźbionym ubijakiem tytoń w fajce. – Natomiast pana, doktorze – spojrzał
+69[(u'tyto\u0144', 69)]
+leżała jeszcze fajka i skórzany worek z tytoniem, pomieszanym, jak zwykle u Indian, z liśćmi konopi. Wziąłem
+69[(u'tyto\u0144', 69)]
 znajdowała się w antresoli dawnego Tepperowskiego pałacu. Zwykle przepełniona bywalcami, ciemna od dymu niezliczonych fajek - dzisiaj była
-151 dym:151 
-
+46[(u'dym', 46)]
 rozwieje się jak dym z fajki. Ludzie widząc, że umieszczasz
-151 dym:151 
-
+46[(u'dym', 46)]
 piję dym z jego fajki i jestem
-151 dym:151 
-
+46[(u'dym', 46)]
 oddał fajkę Apaczowi, który palił
-87 palić:87 
-
+39[(u'pali\u0107', 39)]
 palił fajkę, gospodarz kręcił
-87 palić:87 
-
+39[(u'pali\u0107', 39)]
 palił fajkę, późno wchodził
-87 palić:87 
-
+39[(u'pali\u0107', 39)]
 palić fajkę, będąc
-87 palić:87 
-
-ukazała się siwa głowa w mycce, z porcelanową fajką o długim cybuchu w zębach, rozejrzała
-49 siwy:49 
-
-zapalałeś fajkę u ogniska. Ej! Katz, jeżeli w niebie nie ma węgierskiej piechoty i tartych kartofli, niepotrzebnieś się tam pospieszył. A pamiętasz
-36 ognisko:36 
-
-leżały przede mną czarne skórzane spodnie, para wysokich butów, czerwona wełniana koszula, kamizelka tego samego koloru z niezliczonymi kieszeniami, czarny wełniany szalik na szyję, bluza myśliwska z niebarwionej skóry jeleniej, skórzany pas szerokości dwu dłoni, worek na kule, kapciuch z pęcherza, fajka, kompas i kilkanaście innych drobiazgów, jak onuczki zamiast skarpetek, olbrzymie sombrero, koc wełniany z otworem na głowę, lasso, rożek z prochem, krzesiwo, nóż, siodło z kaburami i uździenica. Potem przystąpiliśmy
-30 czarny:15 czarny:15 
-
-schował fajkę do kieszeni. 68 – Niech moi biali bracia udadzą
-21 biały:21 
-
-wypukać popiół z fajki. Ciotka rozpłakała
-9 popiół:9 
-
-kojarzą się Brytyjczykom z dobrymi garniturami, sygnałem BBC, przysypiającymi i psującymi powietrze starszymi panami, zapachem fajki i kulek na mole, smakiem cienkiej bawarki i bułeczek z kremem.##Laburzyści są
-9 zapach:3 smak:2 cienki:4 
-
-jest barwa świa tła dziennego i płomienia, którym się fajkę zapala. Skoro zgaśnie
-4 płomień:4 
-
+39[(u'pali\u0107', 39)]
