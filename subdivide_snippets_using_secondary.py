@@ -31,6 +31,7 @@ def get_net(filenames):
 
 def subdivide_snippets(filename, d):
     ## Snippet is a key, value is a sum of frequencies from semantic network
+    pairs = set()
     snippets_scores = {}
     with open(filename, 'r') as f:
         for line in f:
@@ -55,7 +56,9 @@ def subdivide_snippets(filename, d):
                         score = d[baseform]
                         snippets_scores[line]['score'] += score
                         snippets_scores[line]['contribs'].append((baseform, score))
-    return snippets_scores
+                        pairs.add((baseform, 'fajka'))
+
+    return snippets_scores, pairs
 
 
 def _get_words(line):
@@ -79,7 +82,7 @@ def main():
     print 'net::', net
     del net['fajka']
 
-    snippets_scores = subdivide_snippets('snippets', net)
+    snippets_scores, pairs = subdivide_snippets('snippets', net)
     print 'scores::', snippets_scores
 
     for snippet, score in snippets_scores.iteritems():
@@ -104,6 +107,7 @@ def main():
     f_paired.close()
     f_unpaired.close()
 
+    print pairs
 
 if __name__ == '__main__':
     main()

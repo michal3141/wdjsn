@@ -1,0 +1,17 @@
+(dym, fajka):       Dym wydobywa się z fajki
+(pokój, fajka):     Fajka w kulturze Indian Lakotów jest symbolem pokoju
+(palenie, fajka):   Fajka umożliwia palenie tytoniu
+(smak, fajka):      Fajka pozwala cieszyć się smakiem i aromatem tytoniu
+(czarny, fajka):    Fajka może być wykonana z czarnego dębu
+(szary, fajka):     Z fajki wydobywa się szary dym
+(tytoń, fajka):     Tytoń jest spalany w fajce
+(biały, fajka):     Fajki gliniane wykonane są z białej gliny kaolinowej
+(cygaro, fajka):    Pocięte cygaro może być palone w fajce
+(tak, fajka):       Fajka (inaczej ptaszek) jest symbolem pojęcia 'tak'
+(ognisko, fajka):   Indianie siedzą przy ognisku i palą fajkę pokoju
+(zapach, fajka):    Po paleniu fajki pozostaje nieprzyjemny zapach
+(siwy, fajka):      Z fajki unosi się siwy dym
+(popiół, fajka):    Po ostygnięciu fajki należy wytrzepać z niej popiół
+(płomień, fajka):   Fajkę można zapalić płomieniem zapalniczki
+(palić, fajka):     Fajkę to przedmiot umożliwiający palenie tytoniu
+(cienki, fajka):    Cienka fajka może łatwo się przepalić
