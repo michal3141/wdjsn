@@ -1,17 +1,35 @@
-(dym, fajka):       Dym wydobywa się z fajki
-(pokój, fajka):     Fajka w kulturze Indian Lakotów jest symbolem pokoju
-(palenie, fajka):   Fajka umożliwia palenie tytoniu
-(smak, fajka):      Fajka pozwala cieszyć się smakiem i aromatem tytoniu
-(czarny, fajka):    Fajka może być wykonana z czarnego dębu
-(szary, fajka):     Z fajki wydobywa się szary dym
-(tytoń, fajka):     Tytoń jest spalany w fajce
-(biały, fajka):     Fajki gliniane wykonane są z białej gliny kaolinowej
-(cygaro, fajka):    Pocięte cygaro może być palone w fajce
-(tak, fajka):       Fajka (inaczej ptaszek) jest symbolem pojęcia 'tak'
-(ognisko, fajka):   Indianie siedzą przy ognisku i palą fajkę pokoju
-(zapach, fajka):    Po paleniu fajki pozostaje nieprzyjemny zapach
-(siwy, fajka):      Z fajki unosi się siwy dym
-(popiół, fajka):    Po ostygnięciu fajki należy wytrzepać z niej popiół
-(płomień, fajka):   Fajkę można zapalić płomieniem zapalniczki
-(palić, fajka):     Fajkę to przedmiot umożliwiający palenie tytoniu
-(cienki, fajka):    Cienka fajka może łatwo się przepalić
+Para:              Opis skrócony:                       Opis oryginaly:
+--------------------------------------------------------------------------------------------------------------
+(dym, fajka):      Dym z fajki                          Dym wydobywa się z fajki
+
+(pokój, fajka):    Fajka pokoju                         Fajka w kulturze Indian Lakotów jest symbolem pokoju
+
+(palenie, fajka):  Palić fajkę                          Fajka umożliwia palenie tytoniu
+
+(smak, fajka):     Fajką 'smakujemy' tytoń              Fajka pozwala cieszyć się smakiem i aromatem tytoniu
+
+(czarny, fajka):   Czarny kolor fajki                   Fajka może być wykonana z czarnego dębu
+
+(szary, fajka):    Szary dym z fajki                    Z fajki wydobywa się szary dym
+
+(tytoń, fajka):    Tytoń palimy w fajce                 Tytoń jest spalany w fajce
+
+(biały, fajka):    Fajka z białej gliny                 Fajki gliniane wykonane są z białej gliny kaolinowej
+
+(cygaro, fajka):   Cygaro to alternatywa dla fajki      Pocięte cygaro może być palone w fajce
+
+(tak, fajka):      Fajka to symbol pojęcia 'tak'        Fajka (inaczej ptaszek) jest symbolem pojęcia 'tak'
+
+(ognisko, fajka):  Palić fajkę przy ognisku             Indianie siedzą przy ognisku i palą fajkę pokoju
+
+(zapach, fajka):   Nieprzyjemny zapach dymu z fajki     Po paleniu fajki pozostaje nieprzyjemny zapach
+
+(siwy, fajka):     Siwy kolor dymu z fajki              Z fajki unosi się siwy dym
+
+(popiół, fajka):   Popiół w fajce                       Po ostygnięciu fajki należy wytrzepać z niej popiół
+
+(płomień, fajka):  Płomień przy zapalaniu fajki         Fajkę można zapalić płomieniem zapalniczki
+
+(palić, fajka):    Palić fajkę                          Fajka to przedmiot umożliwiający palenie tytoniu
+
+(cienki, fajka):   Cienki kształ fajki                 Cienka fajka może łatwo się przepalić
